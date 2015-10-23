@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PaulaExpenses</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_section1">Add Money</string>
+    <string name="title_section2">Add Expense</string>
+    <string name="title_section3">View Global</string>
+
+    <string name="hint_adding_money">Propina de la abuela</string>
+    <string name="expenses_category_1">Food</string>
+    <string name="expenses_category_2">Guille</string>
+    <string name="expenses_category_3">Gifts</string>
+    <string name="question_1">How many euros?:</string>
+    <string name="title_category">Adding expense to: </string>
+    <string name="title_concept">Write a concept if you want:</string>
+
+    <string name="save_command">Save</string>
+
+
+    <string name="api_url">https://sheetsu.com/apis/790051bc</string>
+
+    <string name="success_message">Added to sheet - Success</string>
+    <string name="fail_message">ERROR - Something goes Wrong.</string>
+
+</resources>
